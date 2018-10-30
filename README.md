@@ -1,0 +1,1 @@
+# Lista2exerc_1ao6.
