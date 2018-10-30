@@ -1,0 +1,7 @@
+C:\Users\Ramon Cirino\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.exe.config
+C:\Users\Ramon Cirino\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.exe
+C:\Users\Ramon Cirino\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.pdb
+C:\Users\Ramon Cirino\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csprojAssemblyReference.cache
+C:\Users\Ramon Cirino\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\Ramon Cirino\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.exe
+C:\Users\Ramon Cirino\source\repos\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.pdb
